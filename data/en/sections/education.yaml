@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+  - name: Bachelor in Philology, Honours degree
+    icon: fa-graduation-cap
+    timeframe: 2013–2017
+    institution:
+      name: Lomonosov Moscow State University
+      url: "https://www.msu.ru/en/"
+      location: Moscow, Russia
+    major: German & English Languages
+    grade:
+      scale: GPA
+      achieved: 4.9
+      outOf: 5
+    extracurricularActivities:
+      - MSU Alpine Club supported by the Austrian Embassy Moscow — German language lectures and discussions about Austrian culture and history.
+      - English tutoring for middle school students.
+  - name: Exchange semester, [Erasmus+ Scholarship](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/studying-abroad_en)
+    icon: fa-university
+    timeframe: April – July 2016
+    institution:
+      name: Eberhard Karls University of Tübingen
+      url: "https://uni-tuebingen.de/en/"
+      location: Tübingen, Germany
+    major: German studies
+    extracurricularActivities:
+      - Member of the Student Initiative International Tübingen.

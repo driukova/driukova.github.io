@@ -11,39 +11,38 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  icon: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  icon: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
-  icon: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
 - name: Git
   icon: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "Git is an essential tool of the docs-as-code approach. I have used Bitbucket, GitLab, and Github."
 
-- name: C++
-  icon: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: DITA XML
+  icon: "/images/sections/skills/dita.png"
+  summary: "DITA provides an out-of-the-box solution for the content reuse. Still can be tricky for an inexperienced user. I worked with DITA in Oxygen XML Editor and Syntext Serna."
+
+- name: Markdown
+  icon: "/images/sections/skills/markdown.png"
+  summary: "I format text on this site with Markdown. There is its usual syntax, but I am capable of using an extended version or in-house customization as well."
+
+- name: Confluence
+  icon: "/images/sections/skills/confluence.png"
+  summary: "Write, configure spaces internal and external"
+
+- name: Static Site Generators
+  icon: "/images/sections/skills/hugo.png"
+  summary: "Hugo, VuePress"
+
+- name: Smartcat
+  icon: "/images/sections/skills/smartcat.png"
+  summary: "Using to deliver consistent and fast UI localization as a translator. Developing localization pipeline for UI and international docs that will be part of our CI/CD."
+
+- name: API Documentation
+  icon: "/images/sections/skills/api.svg"
+  summary: "Swagger, RAML"
+
+- name: Jira
+  icon: "/images/sections/skills/jira.png"
+  summary: "Agile"
+
+- name: Python
+  icon: "/images/sections/skills/python.png"
+  summary: "In progress :) To understand developers deeper and provide even better API docs, I am currently taking a course on Python from JetBrains."

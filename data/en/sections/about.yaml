@@ -8,65 +8,55 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Technical Writer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Ozon
+  url: "https://www.ozon.ru"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Motivated technical writer with strong knowledge of APIs and docs-as-code tools. Experienced in creating many forms of content, from developer docs to end-user docs and UX writing. <br>Skilled in DITA XML, Markdown, Confluence, JIRA, Git, command line, Swagger, RAML, SnagIt, and CAT tools.
+'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
-
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "e.driukova@gmail.com"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/driukova/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/driukova"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
+# 16 symbols
 softSkills:
-- name: Leadership
-  percentage: 85
+- name: Self-learning
+  percentage: 95
   color: blue
-- name: Team Work
-  percentage: 90
+- name: Adaptivity
+  percentage: 85
   color: yellow
-- name: Communication
+- name: Teamwork
   percentage: 85
   color: pink
-- name: Hard Working
-  percentage: 85
+- name: Proactivity
+  percentage: 80
   color: green
-- name: Fast Learner
-  percentage: 85
+- name: Thoroughness
+  percentage: 90
   color: sky
-- name: Problem Solving
+- name: Multitasking
   percentage: 85
   color: orange
 # you can also provide color code instead of pre-defined color name

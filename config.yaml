@@ -1,7 +1,7 @@
 baseURL: http://driukova.github.io/
 
 languageCode: en-us
-title: "Dryukova"
+title: "Elizaveta Driukova"
 theme: "toha"
 
 # Manage languages
@@ -10,9 +10,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  ru:
-    languageName: Русский
-    weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: fr
@@ -28,7 +25,7 @@ markup:
     ordered: false
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+# disqusShortname: does-not-exist
 
 # Enable global emoji support
 enableEmoji: true
@@ -42,8 +39,8 @@ params:
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   # It will default to the theme logos if not provided.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
+    main: /images/site/logo.png
+    inverted: /images/site/logo.png
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site

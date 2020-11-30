@@ -11,54 +11,53 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: Ozon
+    url: "https://corporate.ozon.ru/"
+    location: Moscow, Russia
+    overview: Leading e-commerce platform in Russia. Sometimes referred to as "Russian Amazon." <br>Held its IPO on Nasdaq on 25th November 2020.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Technical Writer
+    start: July 2020
+    # end: optional
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Documented microservices and application architecture. Gathered information via presentations, meeting records, and one-to-one communication with developers.
+    - Updated the User Manual for WMS (Warehouse Management System). Communicated with QA Testers and Project Managers, tested new features and described them.
+    - Documented [e-gift cards API](https://docs.ozon.ru/api/egift-card) and [marketing tools API](https://docs.ozon.ru/api/performance) using RAML.
+    - Localized (Ru>En) Seller Center UI and Cross-border Seller Help Center.
+    tools: "Tools and technologies: docs-as-code, single-sourcing, IntelliJ IDEA, Markdown, RAML, Swagger, Git, GitLab, SnagIt, Figma, CAT tools, Confluence, JIRA"
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Yandex
+    url: "https://yandex.com/company/"
+    location: Moscow, Russia
+    overview: Major Russian technological company, whose core product is the fourth-largest search engine in the world by queries. Candidate for Nasdaq-100.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Technical Writer
+    start: April 2020
+    end: August 2020
+    duty: "[Yandex Browser](https://browser.yandex.ru/help/index.html?lang=en) (all platforms):"
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Prepared documentation for Kazakh and Uzbek languages localization.
+    - Analyzed user requests and added the missing information, changed the structure of some articles, selected and added keywords to get documentation to higher positions in search results. This helped users to find the information they need on their own, and reduced the workload of the support service.
+    - Proofread and updated existing documentation, followed the style guide while describing new features.
+    tools: "Tools and technologies: docs-as-code, single-sourcing, DITA XML, Syntext Serna, Oxygen XML Editor, VS Code, SnagIt, Git, Bitbucket"
+
+
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Sodis Travel Company
+    url: "https://www.sodis.ru/disp?s=aboutcompany"
+    location: Moscow, Russia
+    overview: Specializes in luxury tours for VIP clients. [Virtuoso](https://www.virtuoso.com/why-virtuoso/about-us) member.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Knowledge Manager
+    start: June 2017
+    end: July 2020
+    # duty: optional
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Prepared the functional specification of an internal wiki system and after its development migrated the corporate knowledge base on visa and immigration issues from MS Word.
+    - Communicated with representatives of visa centers and consulates in Russian, English and German in writing and orally to update the knowledge base.
+    - Analyzed frequent customer requests and prepared responses’ templates for sales managers. Customer satisfaction with the speed of communication increased from 60% to 80%.
+    - Prepared materials and trained Junior Sales Managers to work with visa applications. Applying my strategy reduced the average application processing time by 25%.
+    # tools: optional
