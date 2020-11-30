@@ -12,7 +12,7 @@ designation: Technical Writer
 # your company information
 company:
   name: Ozon
-  url: "https://www.ozon.ru"
+  url: "https://corporate.ozon.ru/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -42,7 +42,7 @@ socialLinks:
 # 16 symbols
 softSkills:
 - name: Self-learning
-  percentage: 95
+  percentage: 85
   color: blue
 - name: Adaptivity
   percentage: 85
@@ -51,10 +51,10 @@ softSkills:
   percentage: 85
   color: pink
 - name: Proactivity
-  percentage: 80
+  percentage: 85
   color: green
 - name: Thoroughness
-  percentage: 90
+  percentage: 85
   color: sky
 - name: Multitasking
   percentage: 85

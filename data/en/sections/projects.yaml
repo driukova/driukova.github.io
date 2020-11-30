@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Courses and certificates
+  id: projects
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Languages
+  filter: "languages"
+- name: Writing
+  filter: "writing"
+- name: Other
+  filter: "other"
+
+# your projects
+projects:
+- name: IELTS Academic 7.5
+  logo: /images/sections/projects/kubernetes.png
+  timeline: "November 2018"
+  summary: Lorem ipspit autemas placeat modi suscipit eligendi nisi.
+  tags: ["languages"]
+
+- name: DSH-3
+  logo: /images/sections/projects/tensorflow.png
+  timeline: "May 2017"
+  summary: Lorem ipspit autemas placeat modi suscipit eligendi nisi.
+  tags: ["languages"]
+
+- name: Localization for developers
+  logo: /images/sections/projects/tensorflow.png
+  timeline: "April 2020"
+  summary: Lorem ipspit autemas placeat modi suscipit eligendi nisi.
+  tags: ["other"]
+
+- name: Intel Technical Writing School
+  logo: /images/sections/projects/no-code.png
+  timeline: "October 2020 – Present"
+  summary: Lorem ipspit autemas placeat modi suscipit eligendi nisi.
+  tags: ["writing"]
+
+- name: JetBrains Academy — Python
+  logo: /images/sections/projects/toha.png
+  timeline: "November 2020 – Present"
+  summary: Learning Python to understand the needs of developers deeper and create even better API docs.
+  tags: ["other"]
