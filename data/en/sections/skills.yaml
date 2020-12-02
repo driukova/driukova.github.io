@@ -13,36 +13,45 @@ section:
 skills:
 - name: Git
   icon: "/images/sections/skills/git.png"
-  summary: "Git is an essential tool of the docs-as-code approach. I have used Bitbucket, GitLab, and Github."
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "Git is an essential tool of the docs-as-code approach. I have used Bitbucket, GitLab, and Github."
 
 - name: DITA XML
   icon: "/images/sections/skills/dita.png"
-  summary: "DITA provides an out-of-the-box solution for the content reuse. Still can be tricky for an inexperienced user. I worked with DITA in Oxygen XML Editor and Syntext Serna."
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "DITA provides an out-of-the-box solution for the content reuse. Still can be tricky for an inexperienced user. I worked with DITA in Oxygen XML Editor and Syntext Serna."
 
 - name: Markdown
   icon: "/images/sections/skills/markdown.png"
-  summary: "I format text on this site with Markdown. There is its usual syntax, but I am capable of using an extended version or in-house customization as well."
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  summary: "I format text on this site with Markdown. There is its usual syntax, but I am capable of using an extended version or in-house customization as well."
 
 - name: Confluence
   icon: "/images/sections/skills/confluence.png"
-  summary: "Write, configure spaces internal and external"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "Write, configure spaces internal and external"
 
 - name: Static Site Generators
   icon: "/images/sections/skills/hugo.png"
-  summary: "Hugo, VuePress"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "Hugo, VuePress"
 
 - name: Smartcat
   icon: "/images/sections/skills/smartcat.png"
-  summary: "Using to deliver consistent and fast UI localization as a translator. Developing localization pipeline for UI and international docs that will be part of our CI/CD."
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "Using to deliver consistent and fast UI localization as a translator. Developing localization pipeline for UI and international docs that will be part of our CI/CD."
 
 - name: API Documentation
   icon: "/images/sections/skills/api.svg"
-  summary: "Swagger, RAML"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "Swagger, RAML"
 
 - name: Jira
   icon: "/images/sections/skills/jira.png"
-  summary: "Agile"
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "Agile"
 
 - name: Python
   icon: "/images/sections/skills/python.png"
-  summary: "In progress :) To understand developers deeper and provide even better API docs, I am currently taking a course on Python from JetBrains."
+  summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# summary: "In progress :) To understand developers deeper and provide even better API docs, I am currently taking a course on Python from JetBrains."
