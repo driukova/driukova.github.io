@@ -25,7 +25,7 @@ markup:
     ordered: false
 
 # Enable Google Analytics
-googleAnalytics: "G-KXV22X1L02"
+googleAnalytics: "UA-184615739-1"
 
 # Enable Disqus forum
 # disqusShortname: does-not-exist
