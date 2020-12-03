@@ -24,6 +24,9 @@ markup:
     endLevel: 6
     ordered: false
 
+# Enable Google Analytics
+googleAnalytics: G-KXV22X1L02
+
 # Enable Disqus forum
 # disqusShortname: does-not-exist
 
