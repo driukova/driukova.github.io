@@ -28,7 +28,7 @@ markup:
 googleAnalytics: "UA-184615739-1"
 
 # Enable Disqus forum
-# disqusShortname: does-not-exist
+disqusShortname: driukova
 
 # Enable global emoji support
 enableEmoji: true
