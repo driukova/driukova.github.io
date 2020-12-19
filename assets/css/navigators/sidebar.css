@@ -29,7 +29,6 @@
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  font-size: 0.75em;
 }
 
 #search-box {
@@ -89,7 +88,6 @@
 
 .tree i {
   color: #3c4858;
-  font-size: 12px;
   margin-right: 5px;
 }
 
