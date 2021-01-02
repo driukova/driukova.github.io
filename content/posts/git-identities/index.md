@@ -1,7 +1,6 @@
 ---
 title: "Multiple Git identities on a single machine"
 date: 2020-12-03T08:06:25+03:00
-hero: /posts/git-identities/img/git.png
 description: How to configure multiple Git identities on a single machine
 # text on card
 summary: A Git identity is a pair of username and email address associated with your commits. To keep apart commits to your personal and job projects, configure several identities.

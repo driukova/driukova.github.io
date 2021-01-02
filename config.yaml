@@ -1,6 +1,7 @@
 baseURL: http://driukova.github.io/
 
 languageCode: en-us
+defaultContentLanguage: en
 title: "Elizaveta Driukova"
 theme: "toha"
 

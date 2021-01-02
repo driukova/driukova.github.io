@@ -7,7 +7,13 @@
         <div class="card-header">
           <div class="d-flex">
             {{ if .logo }}
-            <img class="card-img-xs" src="{{ .logo | relURL }}" alt="{{ .name }}" />
+
+            {{ $logoImage:= resources.Get .logo}}
+            {{ if $logoImage }}
+            {{ $logoImage := $logoImage.Fit "24x24" }}
+
+            <img class="card-img-xs" src="{{ $logoImage.RelPermalink }}" alt="{{ .name }}" />
+            {{ end }}
             {{ end }}
             <h5 class="card-title mb-0">{{ .name }}</h5>
           </div>
