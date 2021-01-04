@@ -89,11 +89,10 @@
     margin-bottom: 0;
 }
 
-/*============ Education Alter Template =============*/
-.education-alt .degree-info{
-    border-right: 2px solid #248aaa;
-}
-
+/* .education-section .taken-courses .show-more-btn {
+    padding-top: 0;
+    margin-left: 0.2rem;
+} */
 
 /* ============= Device specific fixes ======= */
 
@@ -133,7 +132,7 @@
     .education-section .container{
         padding-right: 0;
     }
-    
+
     .education-section .icon {
         display: none;
     }

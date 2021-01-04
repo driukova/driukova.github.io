@@ -68,6 +68,7 @@ body {
   padding-left: 0.5rem;
   margin-bottom: 0rem;
   width: 100%;
+  font-size: 14px;
 }
 
 .toc .nav-link {
@@ -218,6 +219,7 @@ pre {
 
 pre > code {
   padding: 10px !important;
+  margin-bottom: 10px;
 }
 
 a.header-anchor {

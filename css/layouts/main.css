@@ -15,7 +15,7 @@ Yellow:  #FFC212
 
 body {
   background-color: #f9fafc;
-  font-family: "Muli";
+  font-family: 400 16px/24px Roboto,Noto Sans,sans-serif;
 }
 
 h1,
@@ -24,6 +24,7 @@ h3,
 h4,
 h5 {
   color: #1c2d41;
+  font-family: Lato,sans-serif;
 }
 
 strong {
