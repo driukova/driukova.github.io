@@ -11,6 +11,8 @@ menu:
     weight: 10
 ---
 
+> This article is not complete yet. Just testing a customized template.
+
 A Git identity is a pair of username and email address associated with your commits. To keep apart commits to your 
 personal and job projects, configure several identities.
 
