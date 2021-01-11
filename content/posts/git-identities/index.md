@@ -16,11 +16,11 @@ menu:
 A Git identity is a pair of username and email address associated with your commits. To keep apart commits to your 
 personal and job projects, configure several identities.
 
-The right way to configure several Git identities on the same machine depends on where your target repos are hosted. 
+The right way to configure several Git identities on the same machine depends on where your target repos are stored. 
 
-### Different hosting services
+### Different repository services
 
-If the target repos are stored on different hosting services (e.g., GitHub and GitLab), you can configure separate identities 
+If the target repos are stored in the different repository services (e.g., GitHub and GitLab), you can configure separate identities 
 and use the same SSH key for both of them.
 
 #### Git lookup order
@@ -57,9 +57,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Same hosting service
+### Same repository service
 
-If the target repos are stored on the same hosting service (e.g., GitHub), in addition to configuring different accounts you need to 
+If the target repos are stored in the same repository service (e.g., GitHub), in addition to configuring different accounts you need to 
 indicate separate SSH keys for each of them.
 
 
