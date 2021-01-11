@@ -29,7 +29,7 @@ skills:
 
 - name: Static Site Generators
   logo: "/images/sections/skills/hugo.png"
-  summary: SSG are one of the most common authoring and publishing tools used in docs-as-code scenarios. Experienced in Hugo and VuePress. This site is powered by Hugo.
+  summary: SSG are one of the most common authoring and publishing tools used in docs-as-code scenarios. Worked with Hugo and VuePress. This site is powered by Hugo.
 
 - name: Smartcat
   logo: "/images/sections/skills/smartcat.png"
