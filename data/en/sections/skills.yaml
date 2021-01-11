@@ -17,7 +17,7 @@ skills:
 
 - name: DITA XML
   logo: "/images/sections/skills/dita.png"
-  summary: "DITA provides an out-of-the-box solution for the content reuse, but the barriers to entry for new authors are considerably high. Worked with DITA in Oxygen XML Editor and Syntext Serna."
+  summary: "XML data model for authoring, producing, and delivering technical information with considerably high barriers to entry for new authors. Worked with DITA in Oxygen XML Editor and Syntext Serna."
 
 - name: Markdown
   logo: "/images/sections/skills/markdown.png"
@@ -29,7 +29,7 @@ skills:
 
 - name: Static Site Generators
   logo: "/images/sections/skills/hugo.png"
-  summary: SSG are one of the most common authoring and publishing tools used in docs-as-code scenarios. Worked with Hugo and VuePress. This site is powered by Hugo.
+  summary: SSGs are one of the most common authoring and publishing tools used in docs-as-code scenarios. Worked with Hugo and VuePress. This site is powered by Hugo.
 
 - name: Smartcat
   logo: "/images/sections/skills/smartcat.png"
