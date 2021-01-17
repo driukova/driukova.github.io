@@ -36,22 +36,29 @@ Changing the higher level settings does not affect repos with local config files
 
 #### Global settings
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The global settings are specified for a single user during the first time Git configuration and can be changed with the same command:
 
 ```console
-$ git config --global user.name "Zaphod Beeblebrox"
-$ git config --global user.email "beeblebrox@example.com"
+git config --global user.name "Zaphod Beeblebrox"
+git config --global user.email "beeblebrox@example.com"
 ```
 
 To see your current settings, and the config file location, execute the command:
 
 ```console
-$ git config --list --show-origin
+git config --list --show-origin
 ```
 
 #### Single repo settings
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+To specify separate Git identities for a single repo, run the command in your project directory:
+
+```console
+git config  --local user.name "Zaphod Beeblebrox"
+git config  --local user.email "beeblebrox@example.com"
+```
+
+The `--local` option can be omitted as it is default.
 
 #### Several repos settings
 
