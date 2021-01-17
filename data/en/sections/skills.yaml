@@ -21,7 +21,7 @@ skills:
 
 - name: Markdown
   logo: "/images/sections/skills/markdown.png"
-  summary: Popular lightweight markup language. Most of Markdown processors allow to add extentions to enable missing syntax elements or create in-house customization. Text on this site is formatted with Markdown.
+  summary: Popular lightweight markup language. Most of Markdown processors allow to add extentions to enable missing syntax elements or create in-house customization. Text on this website is formatted with Markdown.
 
 - name: Confluence
   logo: "/images/sections/skills/confluence.png"
@@ -29,7 +29,7 @@ skills:
 
 - name: Static Site Generators
   logo: "/images/sections/skills/hugo.png"
-  summary: SSGs are one of the most common authoring and publishing tools used in docs-as-code scenarios. Worked with Hugo and VuePress. This site is powered by Hugo.
+  summary: SSGs are one of the most common authoring and publishing tools used in docs-as-code scenarios. Worked with Hugo and VuePress. This website is powered by Hugo.
 
 - name: Smartcat
   logo: "/images/sections/skills/smartcat.png"
