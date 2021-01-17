@@ -58,7 +58,7 @@ git config  --local user.name "Zaphod Beeblebrox"
 git config  --local user.email "beeblebrox@example.com"
 ```
 
-The `--local` option can be omitted as it is default.
+The `--local` option is default and can be omitted.
 
 #### Several repos settings
 
