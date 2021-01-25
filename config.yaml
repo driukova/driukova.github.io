@@ -47,8 +47,9 @@ params:
     inverted: /images/site/logo.png
     favicon: /images/site/favicon.png
 
-  # GitHub repo URL of your site
+  # GitHub repo URL nd branch of your site
   gitRepo: https://github.com/driukova/driukova.github.io
+  gitBranch: main
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
