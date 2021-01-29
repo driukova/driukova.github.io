@@ -18,8 +18,7 @@ company:
 resume: "files/Driukova_Elizaveta-Technical-Writer.pdf"
 
 # a summary about you
-summary: 'Motivated technical writer with strong knowledge of APIs and docs-as-code tools. Experienced in creating many forms of content, from developer docs to end-user docs and UX writing. <br>Skilled in DITA XML, Markdown, Confluence, JIRA, Git, command line, Swagger, RAML, SnagIt, and CAT tools.
-'
+summary: Motivated technical writer with strong knowledge of APIs and docs-as-code tools. Experienced in creating many forms of content, from developer docs to end-user docs and UX writing. <br>Skilled in DITA XML, Markdown, Confluence, JIRA, Git, command line, Swagger, RAML, SnagIt, and CAT tools.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
