@@ -24,7 +24,7 @@ projects:
 - name: IELTS Academic 7.5
   logo: /images/sections/projects/ielts.png
   timeline: "November 2018"
-  summary:  International standardized test of English language proficiency for non-native English language speakers. 7.5 band score corresponds to C1 CEFR level.
+  summary:  International standardized test of English language proficiency for non-native English language speakers. 7.5 band score corresponds to the C1 CEFR level.
   tags: ["languages"]
 
 - name: DSH 3
