@@ -24,7 +24,7 @@ experiences:
     - Updated the User Manual for WMS (warehouse management system). Communicated with QAs and Project Managers, tested new features and described them.
     - Documented [e-gift cards API](https://docs.ozon.ru/api/egift-card) and [marketing tools API](https://docs.ozon.ru/api/performance) using RAML.
     - Localized (Ru>En) Seller Center UI and Cross-border Seller Help Center.
-    tools: "Tools and technologies: docs-as-code, single-sourcing, IntelliJ IDEA, Markdown, RAML, Swagger, Git, GitLab, SnagIt, Figma, CAT tools, Confluence, JIRA"
+    tools: "Tools and technologies: docs-as-code, single-sourcing, IntelliJ IDEA, Markdown, RAML, OAS (Swagger), Git, GitLab, SnagIt, Figma, CAT tools, Confluence, JIRA"
 
 
 - company:
