@@ -37,7 +37,7 @@ skills:
 
 - name: API Documentation
   logo: "/images/sections/skills/api.svg"
-  summary: Created and maintained API docs in an agile working environment using docs-as-code approach. Skilled in Postman, curl, Swagger (OAS), and RAML.
+  summary: Created and maintained API docs in an agile working environment using docs-as-code approach. Skilled in Postman, curl, OpenAPI Specification (Swagger), and RAML.
 
 - name: Agile
   logo: "/images/sections/skills/agile.png"
