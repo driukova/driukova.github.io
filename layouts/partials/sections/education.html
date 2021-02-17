@@ -54,6 +54,7 @@
             <div class="taken-courses">
               <h6>Taken Courses</h6>
               {{ if .takenCourses.showGrades }}
+              {{ $hideScale  := .takenCourses.hideScale }}
               <table>
                 <thead>
                 <th>Course Name</th>
@@ -64,7 +65,7 @@
                 {{ range $index,$course := .takenCourses.courses }}
                 <tr class="course {{ if gt $index 1 }}hidden-course{{ end}}">
                   <td>{{ $course.name }}</td>
-                  <td>{{ $course.outOf }}</td>
+                  {{ if not $hideScale  }}<td>{{ $course.outOf }}</td>{{ end }}
                   <td>{{ $course.achieved }}</td>
                 </tr>
                 {{ end }}
