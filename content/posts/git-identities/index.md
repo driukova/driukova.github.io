@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: Configure Git identities
     identifier: git-identity
-    weight: 20
+    weight: 30
 ---
 
 > This article is not complete yet. Just testing a customized template.

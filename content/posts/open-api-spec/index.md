@@ -7,7 +7,7 @@ menu:
   sidebar:
     name: OpenAPI Specification
     identifier: open-api-spec
-    weight: 10
+    weight: 20
 ---
 
 This OpenAPI Specification file was created as a documentation task for an API Technical Writer position:
