@@ -17,7 +17,7 @@ The purposes of using SemVer are:
 - To inform the users about their level of risk when updating.
 
 The version numbers are assigned based on the backwards compatibility of changes. The basic structure is MAJOR.MINOR.PATCH where the increase of:
-- MAJOR version means there are backwards-incompatible breaking change.
+- MAJOR version means there are backwards-incompatible breaking changes.
 - MINOR version means there are backwards-compatible features.
 - PATCH version means there are backwards-compatible bug fixes.
 
